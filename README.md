@@ -12,10 +12,10 @@
       2.Rmdir :- This method remove or delete directory
 
 
-      3.listdir :- This method show all file information. 
+      3.listdir :- Method show all file information. 
 
 
-      4.Remove :- we can remove file using this method
+      4.Remove :- We can remove file using this method
   
   
   - Langauge:- 
