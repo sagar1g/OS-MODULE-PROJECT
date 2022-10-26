@@ -19,7 +19,7 @@
   - Langauge:- 
 
 
-            - [ ] Python  
+             - [ ] Python  
 
 
 
