@@ -18,10 +18,10 @@
       4.Remove :- We can remove file using this method
   
   
-  - Langauge:- 
+  > # Dependencies:- 
 
 
-              Python
+              Python langauge
   
   
 
