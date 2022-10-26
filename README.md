@@ -1,6 +1,8 @@
  # os-module
  
 - This project based on os module method.
+
+
 - Os module method used in project as following :-
 
 
@@ -19,7 +21,9 @@
   - Langauge:- 
 
 
-             - [ ] Python  
+              Python
+  
+  
 
 
 
